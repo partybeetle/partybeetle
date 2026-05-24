@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://files.catbox.moe/ibxb9r.png" width="800" alt="color spectrum" title="ac: astrivion
+<img src="https://files.catbox.moe/29wl8m.gif" width="800" alt="color spectrum" title="ac: astrivion
 ">
 
-$\color{#850082}{\textsf{i}}$ $\color{#dc143c}{\textsf{want}}$ $\color{#f7cf0d}{\textsf{to}}$ $\color{#850082}{\textsf{take}}$ $\color{#dc143c}{\textsf{you apart}}$
+$\color{#f4845f}{\textsf{i}}$ $\color{#f27059}{\textsf{want}}$ $\color{#f4845f}{\textsf{to}}$ $\color{#f27059}{\textsf{take}}$ $\color{#f4845f}{\textsf{you apart}}$
 
-$\color{#f7cf0d}{\textsf{and}}$ $\color{#850082}{\textsf{see}}$ $\color{#dc143c}{\textsf{how}}$ $\color{#f7cf0d}{\textsf{you were}}$ $\color{#850082}{\textsf{designed.}}$
+$\color{#f27059}{\textsf{and}}$ $\color{#f4845f}{\textsf{see}}$ $\color{#f27059}{\textsf{how}}$ $\color{#f4845f}{\textsf{you were}}$ $\color{#f27059}{\textsf{designed.}}$
 
-<img src="https://files.catbox.moe/9dde27.png" width="600" alt="color spectrum" title="ac: ?">
+<img src="https://files.catbox.moe/fn09c4.png" width="600" alt="color spectrum" title="ac: ?">
 
-$\color{#dc143c}{\textsf{babe}}$ $\color{#f7cf0d}{\textsf{of}}$ $\color{#850082}{\textsf{the}}$ $\color{#dc143c}{\textsf{abyss}}$
+$\color{#f4845f}{\textsf{babe}}$ $\color{#f27059}{\textsf{of}}$ $\color{#f4845f}{\textsf{the}}$ $\color{#f27059}{\textsf{abyss}}$
 
 
-<img src="https://files.catbox.moe/twu8xu.png" width="800" alt="color spectrum" title="ac: astrivion
+<img src="https://files.catbox.moe/29wl8m.gif" width="800" alt="color spectrum" title="ac: astrivion
 ">
 
