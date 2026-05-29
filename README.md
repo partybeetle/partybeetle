@@ -11,6 +11,6 @@ $\color{#f27059}{\textsf{and}}$ $\color{#f4845f}{\textsf{see}}$ $\color{#f27059}
 $\color{#f4845f}{\textsf{babe}}$ $\color{#f27059}{\textsf{of}}$ $\color{#f4845f}{\textsf{the}}$ $\color{#f27059}{\textsf{abyss}}$
 
 
-<img src="https://files.catbox.moe/29wl8m.gif" width="800" alt="color spectrum" title="ac: astrivion
+<img src="https://64.media.tumblr.com/077bc65d6f982153e0547bba219fc3c1/78deac175f4188e6-f7/s400x600/e41ad0ab15f154ffd7b3e6994765cc17e422ef0a.gif" width="800" alt="color spectrum" title="ac: astrivion
 ">
 
