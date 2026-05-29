@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://files.catbox.moe/29wl8m.gif" width="800" alt="color spectrum" title="ac: astrivion
+<img src="[https://files.catbox.moe/29wl8m.gif](https://64.media.tumblr.com/077bc65d6f982153e0547bba219fc3c1/78deac175f4188e6-f7/s400x600/e41ad0ab15f154ffd7b3e6994765cc17e422ef0a.gif)" width="800" alt="color spectrum" title="ac: astrivion
 ">
 
 $\color{#f4845f}{\textsf{i}}$ $\color{#f27059}{\textsf{want}}$ $\color{#f4845f}{\textsf{to}}$ $\color{#f27059}{\textsf{take}}$ $\color{#f4845f}{\textsf{you apart}}$
