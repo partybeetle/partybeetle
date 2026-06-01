@@ -8,7 +8,7 @@ $\color{#fb6f92}{\textsf{and}}$ $\color{#ff8fab}{\textsf{see}}$ $\color{#fb6f92}
 
 <img src="https://64.media.tumblr.com/03280435f046660a22b46da996dcd38f/ccbef67770b3130e-94/s400x600/12665ed46ea16960152858101e450c0c29c2ec76.gif" width="200" alt="tv time" title="ac: tobyfox">
 <img src="https://64.media.tumblr.com/03280435f046660a22b46da996dcd38f/ccbef67770b3130e-94/s400x600/12665ed46ea16960152858101e450c0c29c2ec76.gif" width="200" alt="tv time" title="ac: tobyfox">
-<img src="https://files.catbox.moe/lhqps6.png" width="800" alt="tv time" title="ac: mranttennay
+<img src="https://64.media.tumblr.com/491ef30044ad6b88f4785869be40bf80/3a70107e949037a2-cf/s250x400/ba0d1a9718ea0696ea5bbdfa83795e33c76cfa13.gifv" width="800" alt="tv time" title="ac: mranttennay
 ">
 
 
