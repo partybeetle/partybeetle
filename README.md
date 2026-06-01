@@ -6,7 +6,7 @@ $\color{#ff8fab}{\textsf{i}}$ $\color{#fb6f92}{\textsf{want}}$ $\color{#ff8fab}{
 
 $\color{#fb6f92}{\textsf{and}}$ $\color{#ff8fab}{\textsf{see}}$ $\color{#fb6f92}{\textsf{how}}$ $\color{#ff8fab}{\textsf{you were}}$ $\color{#fb6f92}{\textsf{designed.}}$
 
-<img src="https://64.media.tumblr.com/6bb7c7956df598e1e642307fba3c643f/dfbf8144121178ca-aa/s1280x1920/1951b8d927d13b66f0fe89f5fa7d1ffbcdab2a4b.pnj" width="600" alt="color spectrum" title="ac: dandysworlds">
+<img src="https://files.catbox.moe/1bjh0s.gifv" width="600" alt="color spectrum" title="ac: dandysworlds">
 
 $\color{#ff8fab}{\textsf{babe}}$ $\color{#fb6f92}{\textsf{of}}$ $\color{#ff8fab}{\textsf{the}}$ $\color{#fb6f92}{\textsf{abyss}}$
 
