@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://files.catbox.moe/lhqps6.png" width="800" alt="color spectrum" title="ac: mranttennay
+<img src="https://files.catbox.moe/lhqps6.png" width="800" alt="tv time" title="ac: mranttennay
 ">
-  
-<img src="https://64.media.tumblr.com/491ef30044ad6b88f4785869be40bf80/3a70107e949037a2-cf/s250x400/ba0d1a9718ea0696ea5bbdfa83795e33c76cfa13.gifv" width="200" alt="tv time" title="ac: tobyfox">
   
 $\color{#ff8fab}{\textsf{i}}$ $\color{#fb6f92}{\textsf{want}}$ $\color{#ff8fab}{\textsf{to}}$ $\color{#fb6f92}{\textsf{take}}$ $\color{#ff8fab}{\textsf{you apart}}$
 
@@ -15,6 +13,6 @@ $\color{#fb6f92}{\textsf{and}}$ $\color{#ff8fab}{\textsf{see}}$ $\color{#fb6f92}
 $\color{#ff8fab}{\textsf{babe}}$ $\color{#fb6f92}{\textsf{of}}$ $\color{#ff8fab}{\textsf{the}}$ $\color{#fb6f92}{\textsf{abyss}}$
 
 
-<img src="https://files.catbox.moe/lhqps6.png" width="800" alt="color spectrum" title="ac: mranttennay
+<img src="https://files.catbox.moe/lhqps6.png" width="800" alt="tv time" title="ac: mranttennay
 ">
 
