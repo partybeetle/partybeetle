@@ -6,7 +6,7 @@ $\color{#ff8fab}{\textsf{i}}$ $\color{#fb6f92}{\textsf{want}}$ $\color{#ff8fab}{
 
 $\color{#fb6f92}{\textsf{and}}$ $\color{#ff8fab}{\textsf{see}}$ $\color{#fb6f92}{\textsf{how}}$ $\color{#ff8fab}{\textsf{you were}}$ $\color{#fb6f92}{\textsf{designed.}}$
 
-<img src="https://files.catbox.moe/spawhh.png" width="200" alt="tv time" title="ac: arrowsneo">
+<img src="https://files.catbox.moe/spawhh.png" width="800" alt="tv time" title="ac: arrowsneo">
 
 
 $\color{#ff8fab}{\textsf{babe}}$ $\color{#fb6f92}{\textsf{of}}$ $\color{#ff8fab}{\textsf{the}}$ $\color{#fb6f92}{\textsf{abyss}}$
