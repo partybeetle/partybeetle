@@ -6,7 +6,7 @@ $\color{#780000}{\textsf{i}}$ $\color{#c1121f}{\textsf{want}}$ $\color{#780000}{
 
 $\color{#c1121f}{\textsf{and}}$ $\color{#780000}{\textsf{see}}$ $\color{#c1121f}{\textsf{how}}$ $\color{#780000}{\textsf{you were}}$ $\color{#c1121f}{\textsf{designed.}}$
 
-<img src="https://files.catbox.moe/niyme0.gif" width="500" alt="tv time" title="ac: mranttennay
+<img src="https://files.catbox.moe/kplxpy.gifv" width="500" alt="tv time" title="ac: mranttennay
 ">
 
 $\color{#780000}{\textsf{babe}}$ $\color{#c1121f}{\textsf{of}}$ $\color{#780000}{\textsf{the}}$ $\color{#c1121f}{\textsf{abyss}}$
