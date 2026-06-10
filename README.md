@@ -6,7 +6,7 @@ $\color{#780000}{\textsf{i}}$ $\color{#c1121f}{\textsf{want}}$ $\color{#780000}{
 
 $\color{#c1121f}{\textsf{and}}$ $\color{#780000}{\textsf{see}}$ $\color{#c1121f}{\textsf{how}}$ $\color{#780000}{\textsf{you were}}$ $\color{#c1121f}{\textsf{designed.}}$
 
-<img src="https://files.catbox.moe/i8j1np.png" width="700" alt="tv time" title="ac: dollyswons
+<img src="https://files.catbox.moe/niyme0.gif" width="700" alt="tv time" title="ac: dollyswons
 ">
 
 
